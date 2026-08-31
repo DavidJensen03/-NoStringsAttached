@@ -1,0 +1,41 @@
+.DS_Store
+.DS_Store
+.DS_Store
+Maya/workspace.mel
+.DS_Store
+
+<<<<<<< HEAD
+Maya/movies/Ball walk fk controlls.mov
+
+Maya/movies/Skeleton Walk Cycle.mov
+
+Maya/movies/Run Cycle.mov
+
+Maya/movies/Jump Cycle.mov
+
+Maya/movies/Vitality walk.mov
+
+Maya/movies/
+
+Maya/assets/environment/
+=======
+Maya/substance/
+
+Maya/assets/characters/skeleton/ShadingExperimentation/
+
+Maya/assets/characters/skeleton/PersonalAnimations/
+>>>>>>> 10991478/main
+
+Maya/images/
+
+Maya/AfterEffectsLocal/
+
+Maya/scenes/Shot_2_Blockout.ma
+
+Maya/scenes/Shot_3_Blockout.ma
+
+# Ignore Texture Files
+Maya/Textures/
+*.mayaSwatches
+*.swatch
+*.swatches
