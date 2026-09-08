@@ -12,7 +12,7 @@ Maya/movies/Skeleton Walk Cycle.mov
 Maya/movies/Run Cycle.mov
 
 Maya/movies/Jump Cycle.mov
-
+Maya/IgnoreThis/
 Maya/movies/Vitality walk.mov
 
 Maya/movies/
@@ -33,7 +33,7 @@ Maya/AfterEffectsLocal/
 Maya/scenes/Shot_2_Blockout.ma
 
 Maya/scenes/Shot_3_Blockout.ma
-
+Maya/IGNORE/
 # Ignore Texture Files
 Maya/Textures/
 *.mayaSwatches
